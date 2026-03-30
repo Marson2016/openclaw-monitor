@@ -1,0 +1,14 @@
+{
+  "tom": {
+    "agentId": "tom",
+    "historicalTasks": [],
+    "currentTask": {
+      "id": "test-001",
+      "title": "测试任务",
+      "status": "in_progress",
+      "progress": 50,
+      "updatedAt": "2026-03-26T23:35:18.328Z"
+    },
+    "pendingTasks": []
+  }
+}
